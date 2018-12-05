@@ -1,0 +1,66 @@
+/*
+*Riley Whayland 
+*December 5, 2018 
+*Girl Develop It
+
+/* The universal selector */ 
+
+*{
+
+}
+
+
+/* My whole body back ground color*/
+
+body {
+    background-color: #F7C3D6;
+}
+
+/* Header color and girl develop it logo*/
+
+header { 
+        background-color: #E76A6A;
+        text-align: center; }
+
+#girldevelopit { width: 550px; Height: 130px; }
+
+/* My about settings*/
+
+h1{ 
+    font-family: cursive;  
+    text-decoration: underline;
+    font-size: 150%;
+    text-align: left;
+}
+
+/* My paragraph settings */
+
+p{ font-family: sans-serif;  
+    font-size: 140%;
+    text-align: left;
+}
+
+/* My Locations settings */
+
+h2{ 
+    font-family: cursive;  
+    text-decoration: underline;
+    font-size: 150%;
+    text-align: left;
+} 
+
+
+/* My pictures and how they are set*/
+
+#GirlWithALaptop {
+     float: right; }
+
+#girlsaroundcomputers {
+     float: right; }
+
+/* The settings for my links*/
+
+a:link {color: blue;}
+a:hover, a:focus { Color: fuchsia;
+    font-size: 150%; }
+
